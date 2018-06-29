@@ -11,5 +11,3 @@ Promise.resolve().then(data=>{
   }, 0);
 });
 //微任务2 setTimeout2 微任务1 setTimeout1
-
-// 本周作业 就是 node概念 (单线程 多线程) ( 事件环 )
